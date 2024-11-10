@@ -1,0 +1,89 @@
+
+
+h1 {
+    font-size: 150%;
+}
+
+.titulo {
+    font-size: 3em;
+    color: #e24a4a;
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+body {
+    background-color: grey;
+    font-family: 'Arial', sans-serif; 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 20px 0; 
+}
+
+li {
+    margin: 10px 0; 
+    
+}
+
+
+
+a {
+   
+    background-color: rgb(231, 0, 0);
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    padding: 15px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    
+}
+
+a:hover {
+    background-color: #dfdfdf; 
+    color: rgb(0, 0, 0);
+}
+
+.boton-ver-mas {
+    background-color: rgb(231, 0, 0);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+
+.boton2 {
+    background-color: rgb(66, 65, 62);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+
+.boton-ver-mas:hover {
+    background-color: #dfdfdf;
+   
+}
+
+
+
+.div {
+    background-color: rgb(134, 134, 134);
+}
